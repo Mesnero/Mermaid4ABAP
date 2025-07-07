@@ -19,7 +19,7 @@ CLASS zcl_behavior_extractor DEFINITION
              implementation_class TYPE string,
              readonly_fields TYPE string_table,
            END OF ty_entity.
-
+"test
     TYPES tt_entities TYPE STANDARD TABLE OF ty_entity WITH EMPTY KEY.
 
     TYPES: BEGIN OF ty_operation,
