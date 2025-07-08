@@ -71,7 +71,7 @@ Follow these steps to install and use the IDE Action:
 
 **Disclaimer**: This project was created as part of a university course, so we cannot guarantee active maintenance. We also cannot guarantee that pull requests will always be reviewed or merged.
 
-That said, we’d love to see awesome forks and are happy to review contributions when possible — but please understand we can’t make any promises.
+That said, we’d love to see awesome forks and are happy to review contributions when possible - but please understand we can’t make any promises.
 
 ---
 
@@ -81,7 +81,7 @@ If you’d like to contribute, here’s how to get started:
 
 1. **Fork this repository** to your own GitHub account.
 
-2. **Clone your fork** into your ABAP environment:**  
+2. **Clone your fork** into your ABAP environment:  
    (See the [Setup Process](#setup-process) section above for details.)
 
 3. Make your changes.
