@@ -53,7 +53,6 @@ Follow these steps to install and use the IDE Action:
     4.5. Set **Number of Focused Resources** to “One.”
    
     4.6. To filter the action so it only appears for supported object types, optionally add the following under **Object Types**:  
-    - BDEF  
     - CLAS  
     - DDLS  
     - INTF  
