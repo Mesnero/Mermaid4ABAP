@@ -78,9 +78,6 @@ CLASS zcl_diagram_generator IMPLEMENTATION.
       rv_type = 'CDS'.
     ELSEIF iv_object_name CS '_VIEW' OR iv_object_name CP 'Z*_V' OR iv_object_name CP 'Y*_V'.
       rv_type = 'VIEW'.
-    ELSEIF iv_object_name CS '_BDEF' OR iv_object_name CP 'Z*BEHAVIOR*' OR
-           iv_object_name CP 'Y*BEHAVIOR*' OR iv_object_name CP '*_BDEF'.
-      rv_type = 'BDEF'.
     ELSEIF iv_object_name CP 'ZCL_*' OR iv_object_name CP 'YCL_*' OR
            iv_object_name CP 'ZIF_*' OR iv_object_name CP 'YIF_*'.
       rv_type = 'CLASS'.
