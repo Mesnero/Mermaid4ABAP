@@ -4,7 +4,7 @@ This project was developed as part of the practical course *Enterprise Software 
 
 The provided code integrates with [ABAP Development Tools (ADT) IDE Actions](https://help.sap.com/docs/abap-cloud/abap-development-tools-user-guide/working-with-ide-actions) to generate and display [Mermaid diagrams](https://mermaid.js.org/intro/) for various ABAP development objects.
 
-Currently, supported types for diagram generation include classes, interfaces, CDS views, and behavior definitions.
+Currently, supported types for diagram generation include classes, interfaces, and CDS views.
 
 ## Setup
 
