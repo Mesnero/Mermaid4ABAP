@@ -6,6 +6,11 @@ The provided code integrates with [ABAP Development Tools (ADT) IDE Actions](htt
 
 Currently, supported types for diagram generation include classes, interfaces, and CDS views.
 
+### Examples
+Class Diagram Example           |  CDS Diagram Example
+:-------------------------:|:-------------------------:
+![](./assets/Class.png)  |  ![](./assets/CDS.png)
+
 ## Setup
 
 ### Prerequisites
