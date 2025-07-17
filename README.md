@@ -95,6 +95,9 @@ If you’d like to contribute, here’s how to get started:
 
 5. Open a **Pull Request** against the `main` branch of this repository.
 
+If you want to further extend/change the code of the current extractors, the running of the Unit Tests is advised. The Unit Tests require some example files located in [this repository](https://github.com/Mesnero/Mermaid4ABAP_Tests), to reduce clutter in this main repository. 
+To integrate these files into your ADT aswell, follow steps one to three of the above explained setup process (Remember to replace the git-URL).
+
 ---
 
 ### Pull Request Guidelines
